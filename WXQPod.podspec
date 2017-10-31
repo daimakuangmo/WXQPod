@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'WXQPod'
-  s.version      = '1.0.0'
+  s.version      = '1.1.1'
   s.summary      = 'A simple way to multiselect photos from ablum'
   s.description  = <<-DESC
                    移动应用支付接口。
