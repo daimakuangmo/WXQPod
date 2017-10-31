@@ -11,6 +11,6 @@
 
 @interface bundleLoadSDK : NSObject
 
-- (void)logImage;
++ (void)logImage;
 
 @end
